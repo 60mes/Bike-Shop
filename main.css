@@ -1,0 +1,6 @@
+.background {
+    background: url(img/bike-background.jpg);
+    background-size: cover;
+    height: 200px;
+    background-position: center;
+}
